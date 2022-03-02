@@ -1,1 +1,1 @@
- going further on git path 
+ going further on git path with more command
